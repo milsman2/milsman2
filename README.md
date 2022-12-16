@@ -9,12 +9,12 @@
   </div>
 </div>
 
-<span id="body" align="center">
-  
+<div id="body" align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milsman2&theme=tokyonight)](https://github.com/milsman2/github-readme-stats)
 
 [![Miles Kane's GitHub stats](https://github-readme-stats.vercel.app/api?username=milsman2&theme=tokyonight)](https://github.com/milsman2/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=milsman2&theme=tokyonight)](https://git.io/streak-stats)
   
-</span>
+</div>

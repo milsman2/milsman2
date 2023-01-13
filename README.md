@@ -20,10 +20,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=milsman2&theme=dark)](https://git.io/streak-stats)
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-⏳ **Year Progress** { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 3.30 % as on ⏰ 12-Jan-2023
-
 ---

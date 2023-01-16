@@ -29,4 +29,10 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=2bbc8a)
 
+## 📰 Publications
+
+[Homelab Blog](https://blog.kanebroslab.com/) </br>
+[Next.js Portfolio](https://kanebroslab.com/) </br>
+[My ArgoCD Technical Guide](https://codefresh.io/blog/a-fully-argo-based-ecosystem-for-continuous-delivery-and-deployment/)
+
 </div>

@@ -32,9 +32,7 @@
 ## 📰 Publications
   
 [Homelab Blog](https://blog.kanebroslab.com/)
-  <div> // </div>
 [Next.js Portfolio](https://kanebroslab.com/)
-  <div> // </div>
 [My ArgoCD Technical Guide](https://codefresh.io/blog/a-fully-argo-based-ecosystem-for-continuous-delivery-and-deployment/)
 
 </div>

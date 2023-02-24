@@ -30,9 +30,10 @@
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=2bbc8a)
 
 ## 📰 Publications
-  
-[Homelab Blog](https://blog.kanebroslab.com/)
-[Next.js Portfolio](https://kanebroslab.com/)
-[My ArgoCD Technical Guide](https://codefresh.io/blog/a-fully-argo-based-ecosystem-for-continuous-delivery-and-deployment/)
 
+  <a href="https://blog.kanebroslab.com/">Homelab Blog</a>
+  .
+  <a href="https://kanebroslab.com/">[Next.js Portfolio</a>
+  .
+  <a href="https://codefresh.io/blog/a-fully-argo-based-ecosystem-for-continuous-delivery-and-deployment/">My ArgoCD Technical Guide</a>
 </div>

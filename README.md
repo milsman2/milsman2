@@ -31,8 +31,8 @@
 
 ## 📰 Publications
   
-[Homelab Blog](https://blog.kanebroslab.com/)
-[Next.js Portfolio](https://kanebroslab.com/)
+[Homelab Blog // ](https://blog.kanebroslab.com/)
+[Next.js Portfolio // ](https://kanebroslab.com/)
 [My ArgoCD Technical Guide](https://codefresh.io/blog/a-fully-argo-based-ecosystem-for-continuous-delivery-and-deployment/)
 
 </div>

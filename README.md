@@ -1,6 +1,6 @@
 <h2>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  Hi, I'm Miles Kane!
+  Hi, I'm Miles! I'm a big fan of DevOps and Open Source Software.
 </h2>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/miles-kane/">

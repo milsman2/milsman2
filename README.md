@@ -34,7 +34,7 @@
   <p align="center">
   <a href="https://blog.kanebroslab.com/">Homelab Blog</a>
   ·
-  <a href="https://kanebroslab.com/">[Next.js Portfolio</a>
+  <a href="https://kanebroslab.com/">Next.js Portfolio</a>
   ·
   <a href="https://codefresh.io/blog/a-fully-argo-based-ecosystem-for-continuous-delivery-and-deployment/">My ArgoCD Technical Guide</a>
   </p>
